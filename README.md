@@ -26,7 +26,8 @@
 ### **🎨 Design & Organization**
 * ✨ Canva Design (Visual assets, layouts, and branding).
 * 📊 Excel (Data structuring, tracking, and organization).
-* 
+
+
 ### 🌸 Current Status
 > 🎓 **High School Student** | Specialization: **Computer & Network Technician** ✨
 
