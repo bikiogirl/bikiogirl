@@ -3,7 +3,7 @@
   </p>
   
 <p align="center">
-  <em> # 🌸 Student & Tech Enthusiast | IT Support, Cybersecurity, Coding & Design 💻</em>
+  <em> <b> 🌸 Student & Tech Enthusiast | IT Support, Cybersecurity, Coding & Design 💻 </b> </em>
 </p>
 
 # 🌷 About Me & Core Skills 🌷
