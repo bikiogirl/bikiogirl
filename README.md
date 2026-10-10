@@ -1,15 +1,15 @@
 <p align="center">
-  <em> ╭─────────────── ✦ 🌸 ✦ ───────────────╮ </em>
+  <em> ╭─────────────── ✦ 🍂 ✦ ───────────────╮ </em>
   </p>
   
 <p align="center">
-  <em> <b> 🌸 Student & Tech Enthusiast | IT Support, Cybersecurity, Coding & Design 💻 </b> </em>
+  <em> <b> ☕ Student & Tech Enthusiast | IT Support, Cybersecurity, Coding & Design 💻 </b> </em>
 </p>
 
-# 🌷 About Me & Core Skills 🌷
+# 🪶 About Me & Core Skills ˚˖𓍢ִ໋ 🦢˚
 
 ### **💬 Discord Architecture & Management**
-* 🎀 Advanced Server Set Up & Custom Bots configuration.
+* 🎃 Advanced Server Set Up & Custom Bots configuration.
 * ☁️ Experience managing and backing up active communities (700+ members).
 * 📋 Data management, database handling, and thorough documentation of server architecture.
 
@@ -28,9 +28,9 @@
 * 📊 Excel (Data structuring, tracking, and organization).
 
 
-### 🌸 Current Status
+### 🦇 ݁ ˖ִ ࣪ Current Status
 > 🎓 **High School Student** | Specialization: **Computer & Network Technician** ✨
 
 <p align="center">
-<em> ╰──────────────── ✧ 🎀 ✧ ────────────────╯</em>
+<em> ╰──────────────── ✧ 🕯️ ✧ ────────────────╯</em>
 </p>
