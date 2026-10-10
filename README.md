@@ -3,10 +3,10 @@
   </p>
   
 <p align="center">
-  <em>🌸 Student & Tech Enthusiast | IT Support, Cybersecurity, Coding & Design 💻</em>
+  <em> # 🌸 Student & Tech Enthusiast | IT Support, Cybersecurity, Coding & Design 💻</em>
 </p>
 
-#🌷 About Me & Core Skills 🌷
+# 🌷 About Me & Core Skills 🌷
 
 ### **💬 Discord Architecture & Management**
 * 🎀 Advanced Server Set Up & Custom Bots configuration.
