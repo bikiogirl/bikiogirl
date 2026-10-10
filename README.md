@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm Emmanouela 
 
-<!--
-**bikiogirl/bikiogirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>System Administration, Community Architecture & Web Development</em>
+</p>
 
-Here are some ideas to get you started:
+### 🚀 Core Expertise & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **💬 Discord Architecture & Management**
+  * Advanced Server Set Up & Custom Bots configuration.
+  * Experience managing and backing up active communities (700+ members).
+  * Data management, database handling, and thorough documentation of server architecture.
+
+- **💻 IT Support & Systems**
+  * Hardware & software troubleshooting (external/internal computer maintenance).
+  * System optimization and performance tuning.
+
+- **🌐 Web Development & Design**
+  * Web Design & Front-End development fundamentals (HTML, CSS).
+  * Programming capabilities using Python.
+
+- **🎨 Design & Organization**
+  * Canva Design (Visual assets, layouts, and branding).
+  * Excel (Data structuring, tracking, and organization).
