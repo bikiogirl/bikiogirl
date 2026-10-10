@@ -1,4 +1,7 @@
-╭─────────────── ✦ 🌸 ✦ ───────────────╮
+<p align="center">
+  <em> ╭─────────────── ✦ 🌸 ✦ ───────────────╮ </em>
+  </p>
+  
 <p align="center">
   <em>🌸 Student & Tech Enthusiast | IT Support, Cybersecurity, Coding & Design 💻</em>
 </p>
@@ -26,4 +29,7 @@
 * 
 ### 🌸 Current Status
 > 🎓 **High School Student** | Specialization: **Computer & Network Technician** ✨
-╰──────────────── ✧ 🎀 ✧ ────────────────╯
+
+<p align="center">
+<em> ╰──────────────── ✧ 🎀 ✧ ────────────────╯</em>
+</p>
