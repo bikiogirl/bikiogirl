@@ -1,24 +1,23 @@
-# Hello, I'm Emmanouela 
+# 🌸Hello, I'm Emmanouela 
 
-<p align="center">
-  <em>System Administration, Community Architecture & Web Development</em>
-</p>
+### ✨ Core Expertise & Skills 🌷
 
-### 🚀 Core Expertise & Skills
+* **💬 Discord Architecture & Management**
+* 🎀 Advanced Server Set Up & Custom Bots configuration.
+* ☁️ Experience managing and backing up active communities (700+ members).
+* 📋 Data management, database handling, and thorough documentation of server architecture.
 
-- **💬 Discord Architecture & Management**
-  * Advanced Server Set Up & Custom Bots configuration.
-  * Experience managing and backing up active communities (700+ members).
-  * Data management, database handling, and thorough documentation of server architecture.
 
-- **💻 IT Support & Systems**
-  * Hardware & software troubleshooting (external/internal computer maintenance).
-  * System optimization and performance tuning.
+* **💻 IT Support & Systems**
+* 🔧 Hardware & software troubleshooting (external/internal computer maintenance).
+* ⚡ System optimization and performance tuning.
 
-- **🌐 Web Development & Design**
-  * Web Design & Front-End development fundamentals (HTML, CSS).
-  * Programming capabilities using Python.
 
-- **🎨 Design & Organization**
-  * Canva Design (Visual assets, layouts, and branding).
-  * Excel (Data structuring, tracking, and organization).
+* **🌐 Web Development & Design**
+* 🌸 Web Design & Front-End development fundamentals (HTML, CSS).
+* 🐍 Programming capabilities using Python.
+
+
+* **🎨 Design & Organization**
+* ✨ Canva Design (Visual assets, layouts, and branding).
+* 📊 Excel (Data structuring, tracking, and organization).
