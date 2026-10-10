@@ -1,4 +1,5 @@
-# 🌸Hello, I'm Bikio 
+╭─────────────── ✦ 🌸 ✦ ───────────────╮
+# Hello, I'm Bikio 
 
 ### ✨ Core Expertise & Skills 🌷
 
@@ -20,3 +21,5 @@
 ## **🎨 Design & Organization**
 * ✨ Canva Design (Visual assets, layouts, and branding).
 * 📊 Excel (Data structuring, tracking, and organization).
+
+╰──────────────── ✧ 🎀 ✧ ────────────────╯
