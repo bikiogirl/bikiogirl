@@ -1,7 +1,9 @@
 ╭─────────────── ✦ 🌸 ✦ ───────────────╮
 ###       Hello, I'm Bikio 
-
-# ✨ Core Expertise & Skills 🌷
+<p align="center">
+  <em>🌸 Student & Tech Enthusiast | IT Support, Cybersecurity, Coding & Design 💻</em>
+</p>
+# 🌷 About Me & Core Skills 🌷
 
 ### **💬 Discord Architecture & Management**
 * 🎀 Advanced Server Set Up & Custom Bots configuration.
@@ -21,5 +23,7 @@
 ### **🎨 Design & Organization**
 * ✨ Canva Design (Visual assets, layouts, and branding).
 * 📊 Excel (Data structuring, tracking, and organization).
-
+* 
+### 🌸 Current Status
+> 🎓 **High School Student** | Specialization: **Computer & Network Technician** ✨
 ╰──────────────── ✧ 🎀 ✧ ────────────────╯
