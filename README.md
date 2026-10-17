@@ -8,10 +8,11 @@
 
 # 🪶 About Me & Core Skills ˚˖𓍢ִ໋ 🦢˚
 
-### **💬 Discord Architecture & Management**
-* 🎃 Advanced Server Set Up & Custom Bots configuration.
-* ☁️ Experience managing and backing up active communities (700+ members).
-* 📋 Data management, database handling, and thorough documentation of server architecture.
+### 💬 Discord Architecture, Systems & Database Management
+* ⚙️ **Advanced Infrastructure:** Complete server architecture, custom bots & webhook automations.
+* 🛡️ **Community & Staff Operations:** Managing 700+ active members with strict staff protocols, crisis management guides, and conflict resolution frameworks.
+* 📑 **Auditing & Database Handling:** Full historical logging, staff tracking, audit logs, backup procedures, and partnership analytics.
+
 
 ### **💻 IT Support & Systems**
 * 🔧 Hardware & software troubleshooting (external/internal computer maintenance).
