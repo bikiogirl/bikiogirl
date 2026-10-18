@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="936" height="314" alt="αρχείο λήψης (1)" src="https://github.com/user-attachments/assets/d45089b8-8f42-469f-a3b7-d79765a792a4" />
+<img width="936" height="395" alt="αρχείο λήψης (2)" src="https://github.com/user-attachments/assets/3773d7e9-38ac-4fe8-97cc-e759c6b90378" />
 </div>
 
 <p align="center">
@@ -45,5 +45,5 @@
 </p>
 
 <div align="center">
-<img width="936" height="395" alt="αρχείο λήψης (2)" src="https://github.com/user-attachments/assets/3773d7e9-38ac-4fe8-97cc-e759c6b90378" />
+  <img width="936" height="314" alt="αρχείο λήψης (1)" src="https://github.com/user-attachments/assets/d45089b8-8f42-469f-a3b7-d79765a792a4" />
 </div>
