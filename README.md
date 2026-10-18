@@ -1,5 +1,5 @@
 <div align="center">
-<img width="936" height="395" alt="αρχείο λήψης (2)" src="https://github.com/user-attachments/assets/3773d7e9-38ac-4fe8-97cc-e759c6b90378" />
+<img width="936" height="350" alt="αρχείο λήψης (2)" src="https://github.com/user-attachments/assets/3773d7e9-38ac-4fe8-97cc-e759c6b90378" />
 </div>
 
 <p align="center">
