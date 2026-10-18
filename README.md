@@ -33,7 +33,7 @@
 * 📊 Excel (Data structuring, tracking, and organization).
 
 
-### 🏺  ݁ ˖ִ ࣪ Current Status
+### 🕯️  ݁ ˖ִ ࣪ Current Status
 > 🎓 **High School Student** | Specialization: **Computer & Network Technician** ✨
 
 
