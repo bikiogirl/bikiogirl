@@ -43,3 +43,7 @@
 <p align="center">
 <em> ╰──────────────── ✧ ⚜️ ✧ ────────────────╯</em>
 </p>
+
+<div align="center">
+<img width="736" height="415" alt="αρχείο λήψης (2)" src="https://github.com/user-attachments/assets/3773d7e9-38ac-4fe8-97cc-e759c6b90378" />
+</div>
