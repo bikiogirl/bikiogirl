@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://klipy.com/gifs/scarface-blimp" width="100%" alt="Banner">
+</div>
 <p align="center">
   <em> ╭─────────────── ✦ ⚜️ ✦ ───────────────╮ </em>
   </p>
