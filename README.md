@@ -6,7 +6,7 @@
   <em> <b> ☕ Student & Tech Enthusiast | IT Support, Cybersecurity, Coding & Design 💻 </b> </em>
 </p>
 
-# 🏛️ About Me & Core Skills ˚˖𓍢ִ໋ 🦢˚
+# 🪶 About Me & Core Skills ˚˖𓍢ִ໋ 🦢˚
 
 ### 💬 Discord Architecture, Systems & Database Management
 * ⚙️ **Advanced Infrastructure:** Complete server architecture, custom bots & webhook automations.
