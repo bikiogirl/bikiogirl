@@ -1,4 +1,6 @@
-<iframe src="https://klipy.com/gifs/scarface-blimp/player" width="400" height="170" title="Scarface Blimp: 'The World Is Yours' Message" frameborder="0" allowfullscreen loading="lazy"></iframe>
+<div align="center">
+  <img src="Mabon 🍁 Autumn Equinox.gif" width="100%" alt="Banner">
+</div>
 <p align="center">
   <em> ╭─────────────── ✦ ⚜️ ✦ ───────────────╮ </em>
   </p>
